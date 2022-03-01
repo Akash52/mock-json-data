@@ -5,7 +5,7 @@
     "first_name": "George",
     "last_name": "Bluth",
     "avatar": "https://reqres.in/img/faces/1-image.jpg",
-    "status": "active",
+    "status": "Active",
     "access": "Owner"
   },
   {
