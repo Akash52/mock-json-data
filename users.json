@@ -69,7 +69,7 @@
     "last_name": "Ferguson",
     "avatar": "https://reqres.in/img/faces/8-image.jpg",
     "status": "inactive",
-    "access": "Read"
+    "access": "Trainer"
   },
   {
     "id": 9,
@@ -78,7 +78,7 @@
     "last_name": "Funke",
     "avatar": "https://reqres.in/img/faces/9-image.jpg",
     "status": "inactive",
-    "access": "Read"
+    "access": "Trainer"
   },
   {
     "id": 10,
@@ -96,7 +96,7 @@
     "last_name": "Edwards",
     "avatar": "https://reqres.in/img/faces/11-image.jpg",
     "status": "inactive",
-    "access": "Read"
+    "access": "Trainer"
   },
   {
     "id": 12,
